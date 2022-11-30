@@ -2,4 +2,18 @@
 #+OPTIONS: toc:nil
 
 * Hello there
-testing org mode support
+- I build tools for developers and power users.
+- Have a fluent Clojure and managable English.
+- Am an author and maintainer of [[http://git.sr.ht/~abcdw/rde][rde]] project.
+- A [[https://guix.gnu.org/][GNU Guix]] [[https://savannah.gnu.org/project/memberlist.php?group=guix][developer]].
+- The original author of [[https://guix.gnu.org/en/blog/2022/keeping-ones-home-tidy/][Guix Home]].
+
+* Contributing
+I prefer patches and reports sent via email or mailing lists.  You can
+find more contributing tips in related project's documentation section.
+
+* Where to find
+- I don't write much on my personal website [[https://trop.in][trop.in]].
+- But I write some code on [[https://git.sr.ht/~abcdw][sr.ht/~abcdw]].
+- Toot on Fediverse via [[https://fosstodon.org/@abcdw][Mastodon]] account.
+- Stream technical talks on [[https://www.youtube.com/@abcdw][youtube.com/@abcdw]].
